@@ -1,0 +1,19 @@
+{
+  "name": "typescript-library",
+  "version": "1.0.0",
+  "description": "Various examples of typescript usages",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeastyFR/typescript-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeastyFR/typescript-library/issues"
+  },
+  "homepage": "https://github.com/BeastyFR/typescript-library#readme"
+}
